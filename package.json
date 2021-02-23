@@ -1,7 +1,7 @@
 {
-  "name": "venonbotteste",
+  "name": "agendabootwhats",
   "version": "1.0.0",
-  "description": "Teste de NPM",
+  "description": "Projeto de Boot para marcar horarios na agenda automaticamente",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "venom-bot": "^2.2.4"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0"
   }
 }

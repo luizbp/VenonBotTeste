@@ -1,0 +1,15 @@
+{
+    "0": {
+        "0": "Olá, Tudo bem?\nEssa é uma mensagem automática, como poderia te ajudar?\n\nOpções:\n• Envie 1 para uma conversa pessoal, e assim que possível te responderei\n• Envie 2 para agendar um horário\n• Envie 3 para saber quais procedimentos posso oferecer",
+        "1": {
+            "0": "Ok, assim que possível te responderei!!! \nObrigado pelo contato!",
+            "1": {
+                "0": "Qual seria o melhor dia e horário para você? \n *Ex: (Dia dd/mm ás HH:MM)*",
+                "1": {
+                    "0": "Aguarde e logo te informarei qual horário poderei te atender 🙏🏼"
+                }
+            },
+            "2": "Procedimentos Juliana Esteticista \n\nSobrancelhas\nSobrancelhas com henna\nBuço\nVirilha\nMeia perna\nCoxa\nPerna total\nAxila\nLimpeza de pele\nDrenagem \nDepilação facial \nEsfoliação corporal \nBanho de lua\nEsfoliação facial\nHidratação facial com aplicação de vitamina C\nTratamento para clareamento facial\nMaquiagem (sem cílios)\nMaquiagem (com cílios)\nMaquiagem básica (sem cílios)\nMaquiagem básica (com cílios)\nSpa para as mãos\nSpa para os pés\nManicure\nPedicure\nAlongamento de unhas em gel"
+        }
+    }
+}
