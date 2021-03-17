@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "googleapis": "^39.2.0",
     "venom-bot": "^2.2.4"
   },
   "devDependencies": {
